@@ -1,2 +1,1 @@
-Galmee app
-.github/workflows/android.yml
+upload all Galmee app projects
